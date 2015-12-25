@@ -3,6 +3,8 @@ title: Real-life room escape Games
 email: guillaume.dedrie@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     A blog about real-life room escape!
+keywords: Real-life, escape, games
+author: Wferr
 baseurl: "/rlreg-blog" # the subpath of your site, e.g. /blog/
 url: "https://guillaumededrie.github.io/" # the base hostname & protocol for your site
 twitter_username: guillaumededrie
