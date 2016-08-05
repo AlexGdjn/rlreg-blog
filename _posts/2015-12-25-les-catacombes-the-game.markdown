@@ -1,20 +1,31 @@
 ---
 title:  "Les catacombes - The Game"
 subtitle: "Des crânes ! Partout !"
-author: "Guiton"
-avatar: "img/authors/guiton.png"
+author: "Dex"
+avatar: ""
 image: "img/les-catacombes-the-game.jpg"
 date:   2015-12-25 15:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+[NOTE : Cette salle a subi un lifting notable en fevrier 2016 (??). L'avis que vous vous apprêtez à lire (ou du moins survoler en diagonale) concerne la nouvelle mouture des Catacombes.]
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+### Introduction
+Les catacombes ! Ancien réseau de carrières devenu gigantesque ossuaire, ce tortueux dédale parcourant les sous-sols de Paris est loin d'avoir livré tous ses secrets. Ainsi, est-il vraiment surprenant d'apprendre que lors de leurs travaux d'extension, le personnel de The Game a eu la surprise de découvrir un accès caché à ce réseau qui fait le bonheur des aventuriers et chasseurs de trésors de tout poil visitant notre belle capitale ? Je ne pense pas. 
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+Quoi qu'il en soit, The Game est à la recherche de courageux aventuriers pour explorer les catacombes et ses dangers ! On raconte même qu'un trésor serait encore enfoui quelque part dans les galeries, mais l'air s'y fait également rare…Vous ne disposez d'assez d'air que pour 15 minutes d'exploration ! Des bonbonnes supplémentaires se trouvent peut-être encore sur les lieux, mais jusqu'à preuve du contraire, le temps vous est sévèrement compté… 
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+### Explorons !
+C'est donc sans pression aucune que notre groupe s'engage dans l'accès aux catacombes. Immédiatement, le ton est donné : l’air se fait lourd (l'un de mes compagnons d'aventure, asthmatique, a d'ailleurs mis plusieurs minutes à s'habituer… Pensez bien à prendre cela en compte avant de vous lancer dans l'aventure !), la lumière est bien pauvre, et le plafond un peu bas… Casques, lampes frontales et une bonne dose de courage ne seront pas de trop pour explorer. Les décors sont travaillés, l'immersion est totale et l'on se prend immédiatement au jeu ! 
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+Pour qu'une salle soit réussie, l'immersion ne fait pas tout : les défis proposés doivent également être à la hauteur. Dans ce registre, les catacombes font dans une certaine variété, et l’on ne se surprendra pas à faire deux fois la même chose. L'ennui n'est pas une menace, d'autant plus que votre attention devra se porter non seulement sur les enigmes que renferme la salle, mais également sur l'état de vos réserves d'air, mettant votre sang-froid et vos capacités de concentration à rude épreuve ! 
+
+Pour ma part, mon groupe n'est pas parvenu à sortir dans le temps imparti, une fois les secrets des catacombes percés. Heureusement, nous avons pu être secourus ! Et malgré la relative déception d'avoir échoué dans notre quête, nous ne sommes pas prêts d'oublier cette aventure passionnante. 
+
+### Conclusion
+Les catacombes de The Game constituent un défi à la hauteur de la réputation de l'enseigne, et l'heure (ou moins) que vous y passerez a de bonnes chances d'être inoubliable. Mention très spéciale au système de chronométrage, que je n'ai pour l'instant vu nulle part ailleurs et qui vous promet de bonnes doses d’adrénaline. Je regretterai seulement quelques éléments de fouille cachés avec un peu trop de zèle, mais rien qui n’eût pu gâcher mon plaisir à explorer cette salle. 
+
+C'est plutôt pour vous si : 
+
+* Vous vous sentez l'âme d'un chasseur de trésors
+* Vous aimez l’adrénaline et la pression qui montent en fin de salle
+* Vous souhaitez découvrir un format un peu différent du classique “vous avez 60 minutes pour vous échapper”
